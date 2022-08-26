@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Blah blah blah.
+See [my website!](https://akarbas.github.io/)
 
 <!--
 **AKarbas/AKarbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
